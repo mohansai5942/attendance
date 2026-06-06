@@ -1,0 +1,8 @@
+{
+  "name": "College Attendance Pro",
+  "description": "Professional Attendance Management Web Application for Engineering Colleges",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
